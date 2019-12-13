@@ -3,7 +3,7 @@ require './codes.rb'
 require 'yaml/store'
 require 'clipboard'
 require 'securerandom'
-
+#Welcome
 module Storeapp
   class Web < Sinatra::Base
 
